@@ -1,0 +1,3 @@
+E:/Gitlab/sdk/ClientModding/Detours-4.0.1/build/CMakeFiles/detours.dir
+E:/Gitlab/sdk/ClientModding/Detours-4.0.1/build/CMakeFiles/ALL_BUILD.dir
+E:/Gitlab/sdk/ClientModding/Detours-4.0.1/build/CMakeFiles/ZERO_CHECK.dir
